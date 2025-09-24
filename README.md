@@ -21,4 +21,8 @@ CSDL này quản lý người dùng, dự án, công việc và báo cáo.
 Sau khi import thành công, refresh Schemas → bạn sẽ thấy database `company_progress`.  
 
 ## 👥 Thành viên nhóm
-- Điền danh sách thành viên nhóm tại đây (Tên + MSSV).
+Vương Anh Vũ
+Nguyễn Thị Kim Tuyến
+Nguyễn Thị Khánh Vân
+Nguyễn Ngọc Anh
+Nguyễn Quang Trường
